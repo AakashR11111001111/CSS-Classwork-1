@@ -91,18 +91,13 @@ img{
     display: block;
     font-size: 20px;
     margin: 20px auto;  
-    text-decoration: none; 
+    text-decoration: underline; 
+    color: black;
 }
 #address{
     margin: 10px auto;
     font-weight: bold;
 }
-
-a:hover{
+#visit-my-web:hover{
     color: brown;
 }
-
-a:visited{
-    color: black;
-}
-
