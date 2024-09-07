@@ -93,11 +93,13 @@ img{
     margin: 20px auto;  
     text-decoration: underline; 
     color: black;
+    text-decoration: none;
+}
+
+#visit-my-web:hover{
+    color: brown;
 }
 #address{
     margin: 10px auto;
     font-weight: bold;
-}
-#visit-my-web:hover{
-    color: brown;
 }
